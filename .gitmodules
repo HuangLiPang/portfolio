@@ -1,0 +1,7 @@
+[submodule "themes/sam"]
+	path = themes/sam
+	url = https://github.com/vickylai/hugo-theme-sam.git
+[submodule "public"]
+	path = public
+	url = git@github.com:HuangLiPang/HuangLiPang.github.io.git
+	branch = master
