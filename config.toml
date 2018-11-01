@@ -12,7 +12,7 @@ googleAnalytics         = "UA-128377666-1"              # Tracking code, eg. "UA
     dateform            = "Mon Oct 29, 2018"
     dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
     favicon             = "sam.ico"
-    homepage            = "Main"                        # What to call the home page link
+    homepage            = "home"                        # What to call the home page link
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
     clickablePhotos     = false                         # Allow links to the full size images
     smallPreviewImages  = true                          # Show small images from the subfolder instead of the big versions in the gallery
@@ -28,12 +28,12 @@ googleAnalytics         = "UA-128377666-1"              # Tracking code, eg. "UA
 
 [[params.mainMenu]]
     link = "/about"
-    text = "Who"
-
-[[params.mainMenu]]
-    link = "/projects"
-    text = "What"
+    text = "who"
 
 [[params.mainMenu]]
     link = "/presentations"
-    text = "Talks"
+    text = "talks"
+
+[[params.mainMenu]]
+    link = "/projects"
+    text = "what"
