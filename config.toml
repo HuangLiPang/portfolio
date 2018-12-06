@@ -1,4 +1,4 @@
-baseurl                 = "https://huanglipang.ml/"               # Your domain name. Must end with "/"
+baseurl                 = "https://huanglipang.ml/"     # Your domain name. Must end with "/"
 languageCode            = "en-us"
 defaultContentLanguage  = "en"
 isMultilingual          = false
@@ -23,8 +23,8 @@ googleAnalytics         = "UA-128377666-1"              # Tracking code, eg. "UA
 
 # Metadata
     description         = "Li-Pang Huang"                 # Max 160 characters show in search results
-    twitterCard           = "summary_large_image"           # Card value “summary”, “summary_large_image”, “app”, or “player”
-    primaryImage        = "huanglipang_tn.png"                      # Image that shows on Twitter cards and OpenGraph links
+    twitterCard         = "summary_large_image"           # Card value “summary”, “summary_large_image”, “app”, or “player”
+    primaryImage        = "huanglipang_tn.png"            # Image that shows on Twitter cards and OpenGraph links
 
 [[params.mainMenu]]
     link = "/about"
