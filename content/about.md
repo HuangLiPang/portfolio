@@ -3,7 +3,7 @@ title: "About"
 date: 2018-10-29T00:00:00-00:00
 ---
 
-#### Hello, my name is Li-Pang Huang. 
+#### Hello, I am Li-Pang Huang. 
 
 I am from Taiwan. Currently, I am a master student in [Computer Science at University of Virginia](https://engineering.virginia.edu/departments/computer-science) and seeking 2020 internship opportunity.
 
